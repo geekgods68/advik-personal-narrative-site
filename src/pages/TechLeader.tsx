@@ -1,7 +1,7 @@
-
 import React from 'react';
 import { ImageUploadBox } from '../components/ImageUploadBox';
 import { Navbar } from '../components/Navbar';
+import { BackToHome } from '../components/BackToHome';
 
 const TechLeader = () => {
   const sections = [
@@ -54,6 +54,7 @@ const TechLeader = () => {
             </div>
           ))}
         </div>
+        <BackToHome />
       </div>
     </div>
   );

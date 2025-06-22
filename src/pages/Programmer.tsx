@@ -1,7 +1,7 @@
-
 import React from 'react';
 import { ImageUploadBox } from '../components/ImageUploadBox';
 import { Navbar } from '../components/Navbar';
+import { BackToHome } from '../components/BackToHome';
 
 const Programmer = () => {
   const sections = [
@@ -54,6 +54,8 @@ const Programmer = () => {
             </div>
           ))}
         </div>
+        
+        <BackToHome />
       </div>
     </div>
   );
