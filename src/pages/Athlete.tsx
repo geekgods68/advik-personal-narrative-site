@@ -4,26 +4,18 @@ import { ImageUploadBox } from '../components/ImageUploadBox';
 import { Navbar } from '../components/Navbar';
 import { BackToHome } from '../components/BackToHome';
 
-const TechLeader = () => {
+const Athlete = () => {
   const sections = [
     {
-      title: "Tech Club President",
-      content: "Leading our school's Tech Club, I've organized hackathons, taught programming workshops, and built a community of young developers passionate about technology and innovation."
+      title: "Tennis",
+      content: "Started playing tennis at age 8, it became one of my constants growing up alongside music. Tennis taught me precision, mental resilience, and the importance of consistency in practice."
     },
     {
-      title: "Code Nexus",
-      content: "Co-founded this nonprofit consulting group to provide brand and web development services to organizations while promoting women in tech and planning Singapore-wide free hackathons for teens."
+      title: "Basketball",
+      content: "I've been playing school-level basketball since I was 14 and have won a few medals. It's taught me collaboration, on-the-spot strategy, and the value of pushing as a unit — lessons I carry into leadership roles."
     },
     {
-      title: "BridgeAI & InspireU",
-      content: "Through BridgeAI and co-founding InspireU with Vihan Shroff, I've worked on projects that bridge technology with social impact, focusing on education and child welfare."
-    },
-    {
-      title: "Hack Club Singapore Initiative",
-      content: "Working to establish and expand the Hack Club network in Singapore, creating opportunities for young programmers to learn, build, and connect with the global developer community."
-    },
-    {
-      title: "Discipline Through Movement",
+      title: "Muay Thai",
       content: "For the last 8 months, I've been training in Muay Thai — learning not just technique, but focus, endurance, and respect for form. It's meditative and intense — and a great counterbalance to my mental work."
     }
   ];
@@ -34,10 +26,10 @@ const TechLeader = () => {
       <div className="max-w-4xl mx-auto px-6 pt-24 pb-16">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Leading with Logic and Design
+            Mind, Body, Balance
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Leadership in tech isn't just about managing teams — it's about inspiring innovation, fostering community, and using technology to create meaningful change. Here's how I've approached tech leadership.
+            Physical activity has always been part of my journey — from early tennis lessons to competitive basketball and now Muay Thai training. Each sport has taught me different lessons that I apply to everything else I do.
           </p>
         </div>
         
@@ -65,4 +57,4 @@ const TechLeader = () => {
   );
 };
 
-export default TechLeader;
+export default Athlete;

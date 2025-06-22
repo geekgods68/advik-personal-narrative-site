@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ImageUploadBox } from '../components/ImageUploadBox';
 import { Navbar } from '../components/Navbar';
@@ -16,6 +17,10 @@ const Teacher = () => {
     {
       title: "Student Leadership",
       content: "Through roles like House Captain and MUN Chair for ECOSOC, I've learned that teaching extends beyond academics — it's about mentoring, inspiring, and helping others discover their potential."
+    },
+    {
+      title: "Basketball & Teamwork",
+      content: "I've been playing school-level basketball since I was 14 and have won a few medals. It's taught me collaboration, on-the-spot strategy, and the value of pushing as a unit — something I carry into every classroom and club I lead."
     }
   ];
 

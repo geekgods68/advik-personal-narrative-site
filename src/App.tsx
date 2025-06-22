@@ -9,6 +9,7 @@ import Programmer from "./pages/Programmer";
 import Music from "./pages/Music";
 import TechLeader from "./pages/TechLeader";
 import Teacher from "./pages/Teacher";
+import Athlete from "./pages/Athlete";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -25,6 +26,7 @@ const App = () => (
           <Route path="/music" element={<Music />} />
           <Route path="/tech-leader" element={<TechLeader />} />
           <Route path="/teacher" element={<Teacher />} />
+          <Route path="/athlete" element={<Athlete />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

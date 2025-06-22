@@ -54,6 +54,7 @@ export const Navbar = () => {
     { path: '/music', label: 'Music' },
     { path: '/tech-leader', label: 'Tech Leader' },
     { path: '/teacher', label: 'Teacher' },
+    { path: '/athlete', label: 'Athlete' },
   ];
 
   const isHomePage = location.pathname === '/';
