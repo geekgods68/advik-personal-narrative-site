@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+🌐 Advik Punugu – Personal Website
 
-## Project info
+This is my personal website. It’s not just a portfolio — it’s my timeline, my work, and the things that matter to me.
 
-**URL**: https://lovable.dev/projects/45c306fa-1a4c-419f-b887-542ff5b16c45
+It’s a mix of everything I do: programming, music, leadership, social impact, and the way I think.
+Built with React, Tailwind CSS, and TypeScript, and structured to be clean, intuitive, and easy to navigate.
 
-## How can I edit this code?
+🧭 Site Structure & Content
 
-There are several ways of editing your application.
+🏠 Home Page
+Short intro + tagline:
+“Hi, I’m Advik. I build, teach, and play — with code, with music, and with meaning.”
+Smooth navigation to all key sections
+Responsive layout, clean UI
+👤 About Me
+This section is my story in longform — not just what I’ve done, but why. Covers:
 
-**Use Lovable**
+Music (Carnatic vocal at 7, guitar later on)
+Tennis and early interests
+Programming journey during COVID
+My teaching journey with SMCT
+Academic track and certifications
+Founding Code Nexus & InspireU
+Anecdote about skipping grades in 1st
+🕰 Timeline
+Chronological breakdown of key milestones:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/45c306fa-1a4c-419f-b887-542ff5b16c45) and start prompting.
+Ages 7 to 16
+Includes programming, teaching, leadership, guitar, hackathons, and more
+Each entry has a placeholder where I can upload a personal image by hovering and selecting from my files
+📂 Projects
+Featured Projects section with:
 
-Changes made via Lovable will be committed automatically to this repo.
+Code Nexus – youth-led dev & consulting nonprofit
+InspireU – child-welfare fundraising project
+Sustainability prototypes – like my solar panel tracker
+Teaching CBSE math while studying IGCSE – bridging academic gaps to help others
+Each project card is designed with:
 
-**Use your preferred IDE**
+Title
+Short description
+Hover-to-upload image capability
+🧑‍💼 Roles & Leadership
+Grid of all the roles I’ve taken on, with short descriptions:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+President – Tech Club
+Head – Music Club
+Member – R&D, SustainabilitySphere
+Chair – MUN ECOSOC Committee
+House Captain – Grade 10
+🎓 School Clubs & Initiatives
+Tabs or collapsible layout with sections for:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/45c306fa-1a4c-419f-b887-542ff5b16c45) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Tech Club – teaching Python, JavaScript, web dev, organizing hackathons
+Music Club – performances at MINDS and school events
+SustainabilitySphere – hardware prototypes and IoT ideation
+MUN – policy discussions and leadership
